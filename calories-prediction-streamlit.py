@@ -1,4 +1,3 @@
-# Importing libraries
 import streamlit as st
 import numpy as np
 import matplotlib.pyplot as plt
@@ -73,8 +72,8 @@ for i in range(100):
   time.sleep(0.01)
 st.write(data)
 
-calories = pd.read_csv("datasets/calories.csv")
-exercise = pd.read_csv("datasets/exercise.csv")
+calories = pd.read_csv("calories.csv")
+exercise = pd.read_csv("exercise.csv")
 
 exercise_df = exercise.merge(calories , on = "User_ID")
 # st.write(exercise_df.head())
