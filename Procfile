@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run usa-power-consumption.py
+web: sh setup.sh && streamlit run calories-prediction-streamlit.py
