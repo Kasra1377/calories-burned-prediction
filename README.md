@@ -15,3 +15,8 @@ streamlit run calories-prediction-streamlit.py
 ```
 
 After couple of seconds the WebApp pops up in your browser and then you can modify it with your prefered Interpreter.For saving changes on the WebApp and streamlit file you have to press `Ctrl + S` while you are into your interpreter.
+
+# Reporting bugs and issues
+
+If you have any bugs or issues with this app, please state that in the `Issue` section of this Repository.In addition to that, you can keep in touch with myself by this Gmail:\
+Kasra.211998@gmail.com
