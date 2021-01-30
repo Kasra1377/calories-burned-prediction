@@ -8,7 +8,7 @@ This project is made up of a simple machine learning algorithm(`RandomForestRegr
 
 # Running streamlit file
 
-After downloading and saving the streamlit file (`calories-prediction-streamlit.py`) you have to open `Command Prompt`.In your command prompt change the directory to the directory where the streamlit file is saved and then type:
+After downloading and saving the streamlit file (`calories-prediction-streamlit.py`) into a certain directory, you have to open `Command Prompt`.In your command prompt change the directory to the directory where the streamlit file is saved and then type:
 
 ```
 streamlit run calories-prediction-streamlit.py
